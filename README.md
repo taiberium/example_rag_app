@@ -1,0 +1,1 @@
+example rag app with langchain and gpt4all
